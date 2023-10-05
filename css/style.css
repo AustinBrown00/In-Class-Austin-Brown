@@ -20,12 +20,13 @@ header{
 main{
     float: left;
     width: 65vw;
+    height: 26;
     background-color: hsla(32, 74%, 74%, 0.7);
 }
 aside{
     float: right;
     width: 25vw;
-    height: 25vh;
+    height: 26vh;
     background-color: hsla(186, 85%, 24%, 0.7);
 }
 footer{
