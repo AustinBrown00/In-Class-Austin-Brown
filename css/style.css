@@ -11,6 +11,9 @@ h2
         color: #fc0;
         font-size: 1rem;
 }
+h3{
+    color : #bc4
+}
 header{
     background-color: hsla(230, 74%, 57%, 0.7);
 }
